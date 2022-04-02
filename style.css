@@ -1,0 +1,54 @@
+
+
+
+body {
+    text-align: center;
+    background-image: url("./img/casino-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+#dealer-sum {
+    color: white;
+    font-size: 45px;
+}
+
+#player-sum {
+    font-size: 45px;
+}
+
+#dealer-cards img{
+    height: 245px; /*times 7 */
+    width: 175px; /*times 5 */
+    margin: -20px;
+}
+
+#your-cards img{
+    height: 245px; /*times 7 */
+    width: 175px; /*times 5 */
+    margin: -20px;
+}
+
+#hit {
+    height: 70;
+    width: 140;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 12px;
+    font-weight: bold;
+
+}
+
+#stay {
+    height: 70;
+    width: 140;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 12px;
+    font-weight: bold;
+
+}
+
+
