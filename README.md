@@ -16,7 +16,7 @@ Blackjack game (21)
 Inspiration: 
   
   I recently started playing blackjack games on my mobile
-  device and was fasinated how a simple game can be so fun to 
+  device and was fascinated how a simple game can be so fun to 
   play i wanted to take a jab at creating my own.
   
   
