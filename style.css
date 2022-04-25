@@ -3,7 +3,7 @@
 
 body {
     text-align: center;
-    background-image: url("./img/casino-2.jpg");
+    background-image: url("./img/green-1.avif");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -11,7 +11,7 @@ body {
 }
 
 #dealer-sum {
-    color: white;
+    color: ;
     font-size: 45px;
 }
 
@@ -49,6 +49,11 @@ body {
     border-radius: 12px;
     font-weight: bold;
 
+}
+
+#results{
+    font-size: 45px;
+    font-weight: 800;
 }
 
 
